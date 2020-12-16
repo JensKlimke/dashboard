@@ -1,1 +1,10 @@
-{}
+{
+  "auth": {
+    "dashboard5454e29e": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
